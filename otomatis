@@ -1,0 +1,11 @@
+<script type='text/javascript'>
+//<![CDATA[
+protected_links = "YourDomain.com,AnotherDomain.com,youtube.com,facebook.com,google.com"; 
+  (function() {
+    var sl = document.createElement('script');
+    sl.type = 'text/javascript'; sl.async = true;
+    sl.src = 'https://cdn.rawgit.com/nabila32/tamvan/f9d54819/joharlink.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(sl);
+  })();
+//]]>
+</script>
